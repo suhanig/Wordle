@@ -20,9 +20,9 @@ public class Wordle{
 	//Prints rules in the begining
 	public void rules() {
 		System.out.println("\nRules: ");
-		System.out.println("- Color Choices: R, Y, O, G, B, P, W");
-		System.out.println("- No Repeats");
-		System.out.println("- 0 = Wrong, 1 = Right Colour & Wrong Place, 2 = Right Colour & Right Place");
+		System.out.println("You have 6 tries to guess the word! Each guess must be a valid English 5 letter word." );
+		//System.out.println("- No Repeats");
+		System.out.println("- 0 = Wrong, 1 = Right Letter & Wrong Place, 2 = Right letter & Right Place");
 	}
 	
 	

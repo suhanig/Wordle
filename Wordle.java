@@ -1,3 +1,11 @@
+//tanisha figured ou thow to o the file io stuff
+//suhani made the github and helped with the code
+//Kathryn did the dictionary and getting all the words
+//mackenzie wrote the code for the algorithm that checks word
+
+
+
+
 //wordle
 import java.util.ArrayList;
 import java.util.Scanner;
